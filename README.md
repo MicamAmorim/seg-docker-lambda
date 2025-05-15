@@ -132,4 +132,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir *Issues* ou envi
 
 **Autor:** Miqueias Amorim
 **Email:** [contato@exemplo.com](mailto:kekoamorimsilva@gmail.com)
-**LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/miqueiasamorimsantossilva/)
+**LinkedIn:** [miqueiasamorimsantossilva](https://www.linkedin.com/in/miqueiasamorimsantossilva/)
