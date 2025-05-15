@@ -1,0 +1,7 @@
+venv/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+client.py

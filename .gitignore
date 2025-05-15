@@ -1,0 +1,5 @@
+client-docker.py
+requirements.txt
+venv/
+
+!Docker/requirements.txt
